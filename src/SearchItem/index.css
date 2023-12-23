@@ -1,0 +1,24 @@
+.bg-item-container {
+  background-color: #152850;
+  width: 100%;
+  padding: 35px;
+}
+.playlist-search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #fff;
+}
+.searchInput {
+  background-color: transparent;
+  border: 1px solid #fff;
+  padding: 5px;
+  border-radius: 3px;
+}
+.song-ietm-container {
+  padding-top: 15px;
+  overflow-y: auto;
+  width: 100%;
+  height: 50vh;
+  color: #fff;
+}
